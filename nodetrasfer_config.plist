@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://gos-medias.goschainccap.com/upload/1571707029683_912422046.ipa</string>
+                    <string>http://gos-medias.oss-cn-hangzhou.aliyuncs.com/upload/1571996950357_972685208.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -31,7 +31,7 @@
                 <key>bundle-identifier</key>
                 <string>com.NT.NodeTransfer</string>
                 <key>bundle-version</key>
-                <string>2.0.3</string>
+                <string>2.0.4</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
